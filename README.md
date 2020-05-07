@@ -9,8 +9,11 @@ Criterion Used-  IMDB's Weighted Rating (WR) = (v/(v+m)*R) + (m/(v+m)*C)
 where ,
 
 -v is number of votes for the movie.
+
 -m is the minimum votes required to be listed in the chart.
+
 -R is the average rating of the movie.
+
 -C is the mean vote accross the whole report.
 
 
